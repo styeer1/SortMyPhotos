@@ -8,6 +8,11 @@ The application is designed to be safe and transparent. Every operation can be p
 
 ---
 
+# Screenshot
+
+<img width="1127" height="1020" alt="image" src="https://github.com/user-attachments/assets/e4ce17fb-dda8-460c-a5f5-e27f6354a7a4" />
+---
+
 # Features
 
 ### Rename photos
