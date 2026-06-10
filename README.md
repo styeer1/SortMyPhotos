@@ -215,10 +215,3 @@ The application is built using:
 * PySide6 (Qt GUI)
 * Pillow (EXIF metadata reading)
 
----
-
-# License
-
-This project is currently under development.
-
-License will be defined in the future.
